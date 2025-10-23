@@ -37,6 +37,9 @@ body {
 .page-logo-span {
   color: #2e2f42;
 }
+.page-logo-span {
+  color: #2e2f42;
+}
 .page-nav {
   font-size: 16px;
   line-height: 1.5;
@@ -44,7 +47,6 @@ body {
 }
 .features-desc,
 .team-person-post,
-.footer-text,
 .portfolio-category {
   font-size: 16px;
   line-height: 1.5;
@@ -76,6 +78,10 @@ body {
 .portfolio-title {
   font-size: 36px;
   line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .hero-image {
   background-color: #2e2f42;
@@ -93,4 +99,16 @@ body {
 .hero-image-button:hover,
 .hero-image-button:focus {
   background-color: #404bbf;
+}
+.team {
+  background-color: #f4f4fd;
+}
+.page-footer {
+  background-color: #2e2f42;
+}
+.footer-text {
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
