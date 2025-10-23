@@ -1,0 +1,69 @@
+body {
+  font-family: 'Roboto', 'Raleway', sans-serif;
+  color: #434455;
+}
+.page-header {
+  background-color: #ffffff;
+}
+.page-nav .link {
+  color: #2e2f42;
+}
+.page-nav .link:hover,
+.page-nav .link:active {
+  color: #404bbf;
+}
+.contacts .contacts-list {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.contacts .contacts-list:hover,
+.contacts .contacts-list:focus {
+  color: #404bbf;
+}
+.page-logo {
+  font-size: 18px;
+  line-height: 1.17;
+}
+.page-nav {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+}
+.features-desc,
+.team-person-post,
+.footer-text,
+.portfolio-category {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.hero-image-title {
+  font-size: 56px;
+  line-height: 1.07;
+  color: #ffffff;
+}
+.features-title,
+.team-person,
+.portfolio-name {
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+}
+.team-title,
+.portfolio-title {
+  font-size: 36px;
+  line-height: 1.11;
+}
+.hero-image {
+  background-color: #2e2f42;
+}
+.hero-image-button {
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+  background-color: #4d5ae5;
+}
+.hero-image-button:hover {
+  background-color: #404bbf;
+}
